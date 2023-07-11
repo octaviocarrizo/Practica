@@ -1,0 +1,37 @@
+.caja{
+    background-color: aqua;
+}
+
+.Tx1{
+    position: absolute;
+    top: 1px;
+    background-color: aqua;
+}
+
+.Tx2 {
+    position: absolute;
+    top: 1px;
+    right: 16px;
+    background-color: aqua;
+}
+
+.Tx3{
+    position: absolute;
+    bottom: 1px;
+    right: 16px;
+    background-color: aqua;
+}
+
+.Tx4{
+    position: absolute;
+    bottom: 1px;
+    background-color: aqua;
+}
+
+.Tx5{
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    background-color: aqua;
+}
